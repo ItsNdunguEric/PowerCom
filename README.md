@@ -6,8 +6,9 @@ Upon project completion, revenue generated due to the project income will be dis
 
 ## Features
 
-- Users can view the project's progress
-- Users can choose to add more funds but not deduct if the project is not completed
+- Users can view the project's progress.
+- Projects may be sub-dibided into phases,whereby contributers can choose to inject more funds if a certain phase of a project is completed to their satisfaction.
+- Since it is a smart contract-based application,contributers may vote,based on the project's progress satisfaction, to let the remaining funds in the contribution pool be available for withdrawal by any willing member or remain in the contribution pool. The condition for the smart contract excecution here is the the pre-determined vote percentage.
 -  Members will have a decentralized forum to discuss the project's progress. Only their ENS or wallet addresses will appear in the forum
 - Members can vote in or vote out the project's leader anonymously.
 
