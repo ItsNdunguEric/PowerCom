@@ -3,6 +3,7 @@
 PowerCom is a blockchain-based application that will fall under defi. Its purpose is to enable anyone to contribute towards a common project such as plantation farming, real estate, transport—any project. 
 The platform will work just like farming in defi. Example: Someone comes up with a solid idea with detailed layout that will attract potential investors. Investor here will be anyone with cryptocurrency holdings irregardless of age or amount of crypto they hold. Once a potential investor is interested in the project, they will lock an amount of crypto they wish to contribute towards the project in a smart contract. A code representing their stake towards the project will be generated and sent to them. 
 Upon project completion, revenue generated due to the project income will be distributed to the investors' wallet addresses or ENS with respect to the profit redistribution model.
+This will bridge the gap between members of the community with  financial advantage over those who are financially disadvantaged and 
 
 ## Features
 
